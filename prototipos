@@ -1,1 +1,7 @@
+├── prototipos/              # Protótipos exportados do Figma
+│   ├── cadastro_pessoa_fisica.png
+│   ├── cadastro_pessoa_juridica.png
+│   ├── cadastro_professores.png
+│   ├── cadastro_fornecedores.png
+│   └── cadastro_alunos.png
 
