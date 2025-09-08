@@ -1,7 +1,7 @@
 # 📚 PI - Segunda Entrega: Proposta de Sistema Orientado a Objetos
 
 ## 👥 Equipe
-- Tatiane Gomes dos Santos 
+- Tatiane Gomes dos Santos
 - Nome 2
 - Nome 3
 - Nome 4
@@ -28,9 +28,14 @@ As jornadas de cadastro previstas no sistema são:
 ---
 
 ## 🖼️ Protótipos (Figma)
-Os protótipos foram desenvolvidos no **Figma**.  
-
 🔗 [Clique aqui para acessar os protótipos no Figma](https://www.figma.com/design/gejcX6UmYpnp0DvDvojKye/PI-Segunda-Entrega?node-id=0-1&p=f)
+
+### Protótipos exportados:
+- ![Pessoa Física](prototipos/cadastro_pessoa_fisica.png)
+- ![Pessoa Jurídica](prototipos/cadastro_pessoa_juridica.png)
+- ![Professores](prototipos/cadastro_professores.png)
+- ![Fornecedores](prototipos/cadastro_fornecedores.png)
+- ![Alunos](prototipos/cadastro_alunos.png)
 
 ---
 
@@ -42,14 +47,12 @@ Os protótipos foram desenvolvidos no **Figma**.
 ### Diagrama de Classes
 ![Diagrama de Classes](imagens/diagrama_classes.png)
 
-> Obs.: Substituir pelos diagramas criados pelo grupo na fase 1.
-
 ---
 
 ## 🚀 Tecnologias Utilizadas
-- UML (modelagem de sistema)  
-- Figma (protótipos de interface)  
-- Markdown (documentação)
+- **UML** → Modelagem de sistema  
+- **Figma** → Protótipos de interface  
+- **Markdown** → Documentação  
 
 ---
 
