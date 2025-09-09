@@ -33,6 +33,8 @@ As jornadas de cadastro previstas no sistema são:
 
 ### Protótipos exportados:
 - ![Pessoa Física](prototipos/cadastro_pessoa_fisica.png)
+- <img width="348" height="268" alt="image" src="https://github.com/user-attachments/assets/f2f67840-b4dd-49aa-96cf-a79eb7ecc63a" />
+
 - ![Pessoa Jurídica](prototipos/cadastro_pessoa_juridica.png)
 - ![Professores](prototipos/cadastro_professores.png)
 - ![Fornecedores](prototipos/cadastro_fornecedores.png)
