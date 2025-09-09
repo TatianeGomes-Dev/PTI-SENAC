@@ -2,9 +2,10 @@
 
 ## 👥 Equipe
 - Tatiane Gomes dos Santos
-- Nome 2
-- Nome 3
-- Nome 4
+- Rodrigo Antunes Carvalho Souza
+- Fabricio Portela Machado
+- Wesley Sousa Cordeiro
+- Jairo Tavares de Souza
 
 ---
 
